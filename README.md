@@ -1,11 +1,16 @@
 # sshportal
 
-[![CircleCI](https://circleci.com/gh/moul/sshportal.svg?style=svg)](https://circleci.com/gh/moul/sshportal)
-[![Go Report Card](https://goreportcard.com/badge/moul.io/sshportal)](https://goreportcard.com/report/moul.io/sshportal)
-[![GoDoc](https://godoc.org/moul.io/sshportal?status.svg)](https://godoc.org/moul.io/sshportal)
-[![Financial Contributors on Open Collective](https://opencollective.com/sshportal/all/badge.svg?label=financial+contributors)](https://opencollective.com/sshportal) [![License](https://img.shields.io/github/license/moul/sshportal.svg)](https://github.com/moul/sshportal/blob/master/LICENSE)
-[![GitHub release](https://img.shields.io/github/release/moul/sshportal.svg)](https://github.com/moul/sshportal/releases)
-<!-- temporarily broken? [![Docker Build Status](https://img.shields.io/docker/build/moul/sshportal.svg)](https://hub.docker.com/r/moul/sshportal/) -->
+[![License](https://img.shields.io/github/license/moul/sshportal.svg)](https://github.com/moul/sshportal/blob/master/LICENSE)
+[![GitHub release](https://img.shields.io/github/release/mschirrmeister/sshportal.svg)](https://github.com/mschirrmeister/sshportal/releases)
+[![Docker Pulls](https://img.shields.io/docker/pulls/mschirrmeister/sshportal.svg)](https://hub.docker.com/r/mschirrmeister/sshportal/)
+[![Docker Stars](https://img.shields.io/docker/stars/mschirrmeister/sshportal.svg)](https://hub.docker.com/r/mschirrmeister/sshportal/)
+[![Docker Build Status](https://github.com/mschirrmeister/sshportal/actions/workflows/build_master.yml/badge.svg)](https://github.com/mschirrmeister/sshportal)
+
+## Note
+
+This fork has no code changes at this point. The main reason for the fork was to build automated container images for **x86_64** and **ARM**.
+
+---
 
 Jump host/Jump server without the jump, a.k.a Transparent SSH bastion
 
