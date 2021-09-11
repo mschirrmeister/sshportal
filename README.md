@@ -1,7 +1,6 @@
 # sshportal
 
 [![License](https://img.shields.io/github/license/moul/sshportal.svg)](https://github.com/moul/sshportal/blob/master/LICENSE)
-[![GitHub release](https://img.shields.io/github/release/mschirrmeister/sshportal.svg)](https://github.com/mschirrmeister/sshportal/releases)
 [![Docker Pulls](https://img.shields.io/docker/pulls/mschirrmeister/sshportal.svg)](https://hub.docker.com/r/mschirrmeister/sshportal/)
 [![Docker Stars](https://img.shields.io/docker/stars/mschirrmeister/sshportal.svg)](https://hub.docker.com/r/mschirrmeister/sshportal/)
 [![Docker Build Status](https://github.com/mschirrmeister/sshportal/actions/workflows/build_master.yml/badge.svg)](https://github.com/mschirrmeister/sshportal)
