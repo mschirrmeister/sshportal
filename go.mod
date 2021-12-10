@@ -5,16 +5,13 @@ require (
 	github.com/asaskevich/govalidator v0.0.0-20210307081110-f21760c49a8d
 	github.com/cpuguy83/go-md2man/v2 v2.0.0 // indirect
 	github.com/creack/pty v1.1.11 // indirect
-	github.com/docker/docker v20.10.7+incompatible
+	github.com/docker/docker v20.10.9+incompatible
 	github.com/dustin/go-humanize v1.0.0
-	github.com/gliderlabs/ssh v0.3.2
-	github.com/go-sql-driver/mysql v1.6.0
-	github.com/jinzhu/gorm v1.9.16
+	github.com/gliderlabs/ssh v0.3.3
+	github.com/go-gormigrate/gormigrate/v2 v2.0.0
 	github.com/kr/pty v1.1.8
-	github.com/lib/pq v1.10.1 // indirect
 	github.com/mattn/go-colorable v0.1.8 // indirect
 	github.com/mattn/go-runewidth v0.0.12 // indirect
-	github.com/mattn/go-sqlite3 v1.14.7 // indirect
 	github.com/mgutz/ansi v0.0.0-20200706080929-d51e80ef957d
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/pkg/errors v0.9.1
@@ -23,13 +20,16 @@ require (
 	github.com/rivo/uniseg v0.2.0 // indirect
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
 	github.com/sabban/bastion v0.0.0-20180110125408-b9d3c9b1f4d3
-	github.com/smartystreets/goconvey v1.6.4
-	github.com/tailscale/depaware v0.0.0-20201214215404-77d1e9757027
+	github.com/smartystreets/goconvey v1.7.2
+	github.com/tailscale/depaware v0.0.0-20210622194025-720c4b409502
 	github.com/urfave/cli v1.22.5
-	golang.org/x/crypto v0.0.0-20210513164829-c07d793c2f9a
+	golang.org/x/crypto v0.0.0-20211117183948-ae814b36b871
 	golang.org/x/term v0.0.0-20210422114643-f5beecf764ed // indirect
-	golang.org/x/tools v0.1.3
-	gopkg.in/gormigrate.v1 v1.6.0
+	golang.org/x/tools v0.1.7
+	gorm.io/driver/mysql v1.2.0
+	gorm.io/driver/postgres v1.2.2
+	gorm.io/driver/sqlite v1.2.4
+	gorm.io/gorm v1.22.3
 	moul.io/srand v1.6.1
 )
 
